@@ -38,7 +38,11 @@ def alan_kay_is_known_for
         :languages => ["C"]
       }
     }
+<<<<<<< HEAD
     programmer_hash[:alan_kay][:known_for]
+=======
+    programmer_hash[:alan_kay] =! "Smalltalk", "LISP"
+>>>>>>> 295f47d6c494c0c55846d06915548ff2e45c59db
 
 end
 
